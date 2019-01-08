@@ -23,7 +23,7 @@
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
 | **01/07/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **01/07/19** | *CS 460* | Course overview; Introduction; Internet (1.1); History (1.7) |
-| **01/08/2019** | *CS 470* | 01 Prepare: Syllabus Quiz |
+| **01/08/19** | *CS 470* | 01 Prepare: Syllabus Quiz |
 | **01/09/19** | *CS 450* | Question – Submit a high quality question regarding the information for this week |
 | **01/09/19** | *CS 460* | Hw01 |
 | **01/09/19** | *CS 460* | Lab 0 |
@@ -32,8 +32,8 @@
 | **01/11/19** | *CS 460* | Hw02 |
 | **01/11/19** | *CS 460* | Lab 0R |
 | **01/11/19** | *CS 460* | Reading - Network core (1.3); HTTP (Intro. of  2.2, 2.2.1, 2.2.3) |
-| **01/12/2019** | *CS 470* | 01 Prepare: Reading |
-| **01/13/2019** | *CS 470* | 01 Ponder: Class Debate |
+| **01/12/19** | *CS 470* | 01 Prepare: Reading |
+| **01/13/19** | *CS 470* | 01 Ponder: Class Debate |
 | **01/14/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **01/14/19** | *CS 460* | Reading - Socket Programming (2.7-2.8) |
 | **01/14/19** | *CS 460* | WS-GS |
@@ -45,8 +45,8 @@
 | **01/18/19** | *CS 450* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **01/18/19** | *CS 460* | Hw04 |
 | **01/18/19** | *CS 460* | Reading - Protocol layers (1.5); Networks under attack (1.6) |
-| **01/18/2019** | *CS 470* | 02 Prepare: Reading |
-| **01/20/2019** | *CS 470* | 02 Ponder: Analysis |
+| **01/18/19** | *CS 470* | 02 Prepare: Reading |
+| **01/20/19** | *CS 470* | 02 Ponder: Analysis |
 | **01/21/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **01/23/19** | *CS 450* | Question – Submit a high quality question regarding the information for this week |
 | **01/23/19** | *CS 460* | Hw05 |
@@ -56,9 +56,9 @@
 | **01/25/19** | *CS 460* | Hw06 |
 | **01/25/19** | *CS 460* | Lab 1R |
 | **01/25/19** | *CS 460* | Reading - Email (2.3)  |
-| **01/25/2019** | *CS 470* | 03 Prepare: Reading |
+| **01/25/19** | *CS 470* | 03 Prepare: Reading |
 | **01/26/19** | *CS 460* | Quiz #1 |
-| **01/27/2019** | *CS 470* | 03 Teach: Malware Research |
+| **01/27/19** | *CS 470* | 03 Teach: Malware Research |
 | **01/28/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **01/28/19** | *CS 460* | Hw07 |
 | **01/28/19** | *CS 460* | Reading - DNS (2.4) |
@@ -72,8 +72,8 @@
 | **02/01/19** | *CS 460* | Hw09 |
 | **02/01/19** | *CS 460* | Reading - Transport Layer (3.1); Mux/Demux (3.2); UDP (3.3) |
 | **02/01/19** | *CS 460* | WS-DNS |
-| **02/01/2019** | *CS 470* | 04 Prepare: Reading |
-| **02/03/2019** | *CS 470* | 04 Ponder: Social Engineering Research |
+| **02/01/19** | *CS 470* | 04 Prepare: Reading |
+| **02/03/19** | *CS 470* | 04 Ponder: Social Engineering Research |
 | **02/04/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **02/04/19** | *CS 460* | Hw10 |
 | **02/04/19** | *CS 460* | Reading - Reliable data transfer (3.4) |
@@ -83,11 +83,11 @@
 | **02/06/19** | *CS 460* | Lab 2 |
 | **02/06/19** | *CS 460* | Reading - TCP (3.5 – 3.5.4) |
 | **02/08/19** | *CS 450* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
-| **02/08/2019** | *CS 470* | 05 Prepare: Reading |
-| **02/08/2019** | *CS 470* | 06 Prepare: Reading |
+| **02/08/19** | *CS 470* | 05 Prepare: Reading |
+| **02/08/19** | *CS 470* | 06 Prepare: Reading |
 | **02/09/19** | *CS 460* | Lab 2R |
-| **02/10/2019** | *CS 470* | 05 Ponder : Path Homograph Lab |
-| **02/10/2019** | *CS 470* | 06 Ponder : Sanitization Lab |
+| **02/10/19** | *CS 470* | 05 Ponder : Path Homograph Lab |
+| **02/10/19** | *CS 470* | 06 Ponder : Sanitization Lab |
 | **02/11/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **02/11/19** | *CS 460* | Reading - TCP connection Mgnt. and Congestion control (3.5.5 – 3.6) |
 | **02/12/19** | *CS 460* | GP2 |
