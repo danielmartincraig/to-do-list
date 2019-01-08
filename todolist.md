@@ -4,7 +4,7 @@
 |--------------|----------|--------------------------------------------------------------|
 | **01/07/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **01/07/19** | *CS 460* | Course overview; Introduction; Internet (1.1); History (1.7) |
-| **01/07/19** | *CS 460* | Hw00 |
+| **01/07/19** | *CS 460* | ~~Hw00~~ |
 | **01/09/19** | *CS 450* | Question – Submit a high quality question regarding the information for this week |
 | **01/09/19** | *CS 460* | Hw01 |
 | **01/09/19** | *CS 460* | Lab 0 |
