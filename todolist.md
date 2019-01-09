@@ -21,9 +21,7 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470]
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **01/07/19** | *CS 450* | Reading – Read and record questions about the items I didn’t understand |
 | **01/07/19** | *CS 460* | Course overview; Introduction; Internet (1.1); History (1.7) |
-| **01/08/19** | *CS 470* | 01 Prepare: Syllabus Quiz |
 | **01/09/19** | *CS 450* | Question – Submit a high quality question regarding the information for this week |
 | **01/09/19** | *CS 460* | Hw01 |
 | **01/09/19** | *CS 460* | Lab 0 |
@@ -179,4 +177,6 @@
 | **04/10/19** | *CS 460* | DQ#2 |
 | **04/12/19** | *CS 450* | Problems and exercises – Complete the problems and exercises before Friday at Midnight.
 | **04/12/19** | *CS 460* | Final: STC 394 at 7 – 8:30 AM |
+| ~~**01/07/19**~~ | ~~*CS 450*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Hw00~~ |
+| ~~**01/08/19**~~ | ~~*CS 470*~~ | ~~01 Prepare: Syllabus Quiz~~ |
