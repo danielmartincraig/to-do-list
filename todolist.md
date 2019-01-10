@@ -21,7 +21,6 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470]
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **01/09/19** | *CS 460* | Reading - Wireshark (WS-GS); Network edge (1.2) |
 | **01/11/19** | *CS 460* | Hw02 |
 | **01/11/19** | *CS 460* | Lab 0R |
 | **01/11/19** | *CS 460* | Reading - Network core (1.3); HTTP (Intro. of  2.2, 2.2.1, 2.2.3) |
@@ -180,4 +179,5 @@
 | ~~**01/08/19**~~ | ~~*CS 470*~~ | ~~01 Prepare: Syllabus Quiz~~ |
 | ~~**01/09/19**~~ | ~~*CS 460*~~ | ~~Hw01~~ |
 | ~~**01/09/19**~~ | ~~*CS 460*~~ | ~~Lab 0~~ |
+| ~~**01/09/19**~~ | ~~*CS 460*~~ | ~~Reading - Wireshark (WS-GS); Network edge (1.2)~~ |
 | ~~**01/09/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
