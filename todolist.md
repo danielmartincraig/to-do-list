@@ -24,9 +24,8 @@
 | **01/13/19** | *CS 470* | 01 Ponder: Class Debate |
 | **01/14/19** | *CS 460* | Reading - Socket Programming (2.7-2.8) |
 | **01/14/19** | *CS 460* | WS-GS |
-| **01/14/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
+| ~~**01/14/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
 | **01/15/19** | *CS 460* | GP0 |
-| **01/15/19** | *CS 460* | Lab 0-T2 |
 | **01/16/19** | *CS 460* | Hw03 |
 | **01/16/19** | *CS 460* | Reading - Delay and loss (1.4) |
 | **01/16/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
@@ -181,3 +180,4 @@
 | ~~**01/11/19**~~ | ~~*CS 480*~~ | ~~Initial Exam Paper~~ |
 | ~~**01/11/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
 | ~~**01/12/19**~~ | ~~*CS 470*~~ | ~~01 Prepare: Reading~~ |
+| ~~**01/15/19**~~ | ~~*CS 460*~~ | ~~Lab 0-T2~~ |
