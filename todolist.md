@@ -22,7 +22,6 @@
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
 | **01/16/19** | *CS 460* | Hw03 |
-| **01/16/19** | *CS 460* | Reading - Delay and loss (1.4) |
 | **01/16/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **01/18/19** | *CS 460* | Hw04 |
 | **01/18/19** | *CS 460* | Reading - Protocol layers (1.5); Networks under attack (1.6) |
@@ -181,3 +180,4 @@
 | ~~**01/14/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
 | ~~**01/15/19**~~ | ~~*CS 460*~~ | ~~GP0~~ |
 | ~~**01/15/19**~~ | ~~*CS 460*~~ | ~~Lab 0-T2~~ |
+| ~~**01/16/19**~~ | ~~*CS 460*~~ | ~~Reading - Delay and loss (1.4)~~ |
