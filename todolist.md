@@ -21,7 +21,6 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470]
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **01/20/19** | *CS 470* | 02 Ponder: Analysis |
 | **01/21/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
 | **01/23/19** | *CS 460* | Hw05 |
 | **01/23/19** | *CS 460* | Lab 1 |
@@ -181,3 +180,4 @@
 | ~~**01/18/19**~~ | ~~*CS 460*~~ | ~~Reading - Protocol layers (1.5); Networks under attack (1.6)~~ |
 | ~~**01/18/19**~~ | ~~*CS 470*~~ | ~~02 Prepare: Reading~~ |
 | ~~**01/18/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**01/20/19**~~ | ~~*CS 470*~~ | ~~02 Ponder: Analysis~~ |
