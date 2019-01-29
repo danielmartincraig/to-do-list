@@ -21,13 +21,7 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470]
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **01/25/19** | *CS 470* | 03 Prepare: Reading |
 | **01/25/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
-| **01/26/19** | *CS 460* | Quiz #1 |
-| **01/27/19** | *CS 470* | 03 Teach: Malware Research |
-| **01/28/19** | *CS 460* | Hw07 |
-| **01/28/19** | *CS 460* | Reading - DNS (2.4) |
-| **01/28/19** | *CS 460* | WS-HTTP |
 | **01/28/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
 | **01/30/19** | *CS 460* | GP1 |
 | **01/30/19** | *CS 460* | Hw08 |
@@ -181,3 +175,9 @@
 | ~~**01/25/19**~~ | ~~*CS 460*~~ | ~~Hw06~~ |
 | ~~**01/25/19**~~ | ~~*CS 460*~~ | ~~Lab 1R~~ |
 | ~~**01/25/19**~~ | ~~*CS 460*~~ | ~~Reading - Email (2.3)~~  |
+| ~~**01/25/19**~~ | ~~*CS 470*~~ | ~~03 Prepare: Reading~~ |
+| ~~**01/26/19**~~ | ~~*CS 460*~~ | ~~Quiz #1~~ |
+| ~~**01/27/19**~~ | ~~*CS 470*~~ | ~~03 Teach: Malware Research~~ |
+| ~~**01/28/19**~~ | *CS 460* | ~~Hw07~~ |
+| ~~**01/28/19**~~ | ~~*CS 460*~~ | ~~Reading - DNS (2.4)~~ |
+| ~~**01/28/19**~~ | ~~*CS 460*~~ | ~~WS-HTTP~~ |
