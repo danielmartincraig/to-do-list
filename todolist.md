@@ -21,11 +21,6 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470]
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **02/01/19** | *CS 460* | Hw09 |
-| **02/01/19** | *CS 470* | 04 Prepare: Reading |
-| **02/03/19** | *CS 470* | 04 Ponder: Social Engineering Research |
-| **02/04/19** | *CS 460* | Hw10 |
-| **02/04/19** | *CS 460* | Reading - Reliable data transfer (3.4) |
 | **02/04/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
 | **02/05/19** | *CS 460* | Test #1 |
 | **02/06/19** | *CS 460* | Hw11 |
@@ -178,6 +173,11 @@
 | ~~**01/30/19**~~ | ~~*CS 460*~~ | ~~Lab 1-T2~~ |
 | ~~**01/30/19**~~ | ~~*CS 460*~~ | ~~Reading - P2P file sharing; Video Streaming and CDN (2.5, 2.6)~~ |
 | ~~**01/30/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
+| ~~**02/01/19**~~ | ~~*CS 460*~~ | ~~Hw09~~ |
 | ~~**02/01/19**~~ | ~~*CS 460*~~ | ~~Reading - Transport Layer (3.1); Mux/Demux (3.2); UDP (3.3)~~ |
 | ~~**02/01/19**~~ | ~~*CS 460*~~ | ~~WS-DNS~~ |
+| ~~**02/01/19**~~ | ~~*CS 470*~~ | ~~04 Prepare: Reading~~ |
 | ~~**02/01/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**02/03/19**~~ | ~~*CS 470*~~ | ~~04 Ponder: Social Engineering Research~~ |
+| ~~**02/04/19**~~ | ~~*CS 460*~~ | ~~Hw10~~ |
+| ~~**02/04/19**~~ | ~~*CS 460*~~ | ~~Reading - Reliable data transfer (3.4)~~ |
