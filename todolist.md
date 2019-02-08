@@ -22,10 +22,8 @@
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
 | **02/06/19** | *CS 460* | Hw11 |
-| **02/08/19** | *CS 460* | Lab 2 |
 | **02/08/19** | *CS 470* | 05 Prepare: Reading |
 | **02/08/19** | *CS 470* | 06 Prepare: Reading |
-| **02/08/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **02/10/19** | *CS 470* | 05 Ponder : Path Homograph Lab |
 | **02/10/19** | *CS 470* | 06 Ponder : Sanitization Lab |
 | **02/11/19** | *CS 460* | Lab 2R |
@@ -181,3 +179,5 @@
 | ~~**02/05/19**~~ | ~~*CS 460*~~ | ~~Test #1~~ |
 | ~~**02/06/19**~~ | ~~*CS 460*~~ | ~~Reading - TCP (3.5 – 3.5.4)~~ |
 | ~~**02/06/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
+| ~~**02/08/19**~~ | ~~*CS 460*~~ | ~~Lab 2~~ |
+| ~~**02/08/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
