@@ -23,8 +23,6 @@
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
 | **02/10/19** | *CS 470* | 06 Ponder : Sanitization Lab |
 | **02/11/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
-| **02/13/19** | *CS 460* | Hw12  |
-| **02/13/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **02/14/19** | *CS 460* | WS-TCP |
 | **02/15/19** | *CS 460* | Hw13 |
 | **02/15/19** | *CS 460* | Reading - Network layer overview and routers (4 - 4.2.1); IPv4 (4.3 – pg. 341) |
@@ -179,5 +177,7 @@
 | ~~**02/11/19**~~ | ~~*CS 460*~~ | ~~Lab 2R~~ |
 | ~~**02/11/19**~~ | ~~*CS 460*~~ | ~~Reading - TCP connection Mgnt. and Congestion control (3.5.5 – 3.6)~~ |
 | ~~**02/13/19**~~ | ~~*CS 460*~~ | ~~GP2~~ |
+| ~~**02/13/19**~~ | ~~*CS 460*~~ | ~~Hw12~~ |
 | ~~**02/13/19**~~ | ~~*CS 460*~~ | ~~Lab 2-T2~~ |
 | ~~**02/13/19**~~ | ~~*CS 460*~~ | ~~TCP Congestion control (3.7); Summary (3.8)~~ |
+| ~~**02/13/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
