@@ -18,13 +18,11 @@
 | **???** | *CS 470* | 13 Ponder : Encryption Lab |
 | **???** | *CS 470* | 13 Prepare: Reading |
 | **???** | *CS 470* | 14 Prove: Final Part I |
-| **???** | *CS 470* | 14 Prove: Final Part II [CS 470]
+| **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **02/15/19** | *CS 460* | Hw13 |
 | **02/18/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
 | **02/20/19** | *CS 460* | Hw14 |
-| **02/20/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **02/21/19** | *CS 460* | WS-IP  |
 | **02/22/19** | *CS 460* | Hw15 |
 | **02/22/19** | *CS 460* | Lab 3 |
@@ -177,7 +175,9 @@
 | ~~**02/13/19**~~ | ~~*CS 460*~~ | ~~TCP Congestion control (3.7); Summary (3.8)~~ |
 | ~~**02/13/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
 | ~~**02/14/19**~~ | ~~*CS 460*~~ | ~~WS-TCP~~ |
+| ~~**02/15/19**~~ | ~~*CS 460*~~ | ~~Hw13~~ |
 | ~~**02/15/19**~~ | ~~*CS 460*~~ | ~~Reading - Network layer overview and routers (4 - 4.2.1); IPv4 (4.3 – pg. 341)~~ |
 | ~~**02/15/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
 | ~~**02/16/19**~~ | ~~*CS 460*~~ | ~~Quiz #2~~ |
 | ~~**02/20/19**~~ | ~~*CS 460*~~ | ~~Reading - DHCP, NAT (pg. 342 through 4.3.5); SDN (3 pages of 4.4)~~ |
+| ~~**02/20/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
