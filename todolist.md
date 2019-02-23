@@ -21,9 +21,7 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-
 | **02/22/19** | *CS 460* | Lab 3P |
-| **02/22/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **02/25/19** | *CS 460* | DQ#1 |
 | **02/25/19** | *CS 460* | Hw16 |
 | **02/25/19** | *CS 460* | Lab 3R |
@@ -182,3 +180,4 @@
 | ~~**02/22/19**~~ | ~~*CS 460*~~ | ~~Hw15~~ |
 | ~~**02/22/19**~~ | ~~*CS 460*~~ | ~~Lab 3~~ |
 | ~~**02/22/19**~~ | ~~*CS 460*~~ | ~~Reading - (5.1); (5.3); (5.4 – 5.4.1); (5.4.4 – 5.4.6)~~ |
+| ~~**02/22/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
