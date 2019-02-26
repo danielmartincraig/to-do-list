@@ -21,11 +21,6 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **02/22/19** | *CS 460* | Lab 3P |
-| **02/25/19** | *CS 460* | DQ#1 |
-| **02/25/19** | *CS 460* | Hw16 |
-| **02/25/19** | *CS 460* | Lab 3R |
-| **02/25/19** | *CS 460* | Reading - SDN Control Plane (5.5 – 5.5.1); ICMP (5.6); SNMP (5.7) |
 | **02/25/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
 | **02/27/19** | *CS 460* | Hw17 |
 | **02/27/19** | *CS 460* | Reading - Link layer; Error-detect. & correct. (6.1, 6.2) |
@@ -55,7 +50,6 @@
 | **03/13/19** | *CS 460* | Reading - Wireless; Wi-Fi (7.1 – 7.2) |
 | **03/13/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/14/19** | *CS 460* | Quiz #3 |
-| **03/15/19** | *CS 460* | Final Project (FP) Proposal |
 | **03/15/19** | *CS 460* | Hw22 |
 | **03/15/19** | *CS 460* | Reading - 802.11 (7.3 – 7.3.4) |
 | **03/15/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
@@ -181,3 +175,8 @@
 | ~~**02/22/19**~~ | ~~*CS 460*~~ | ~~Lab 3~~ |
 | ~~**02/22/19**~~ | ~~*CS 460*~~ | ~~Reading - (5.1); (5.3); (5.4 – 5.4.1); (5.4.4 – 5.4.6)~~ |
 | ~~**02/22/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~DQ#1~~ |
+| ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~Hw16~~ |
+| ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~Lab 3R~~ |
+| ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~Reading - SDN Control Plane (5.5 – 5.5.1); ICMP (5.6); SNMP (5.7)~~ |
+| ~~**03/15/19**~~ | ~~*CS 460*~~ | ~~Final Project (FP) Proposal~~ |
