@@ -2,12 +2,6 @@
 
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
-| **???** | *CS 470* | 07 Ponder : Stack Lab |
-| **???** | *CS 470* | 07 Prepare: Reading |
-| **???** | *CS 470* | 08 Ponder : Vulnerabilities & Exploits Lab |
-| **???** | *CS 470* | 08 Prepare: Reading |
-| **???** | *CS 470* | 09 Ponder: Threat Model |
-| **???** | *CS 470* | 09 Prepare: Reading |
 | **???** | *CS 470* | 10 Prepare: Reading |
 | **???** | *CS 470* | 10 Prove: Midterm Part I |
 | **???** | *CS 470* | 10 Prove: Midterm Part II |
@@ -21,28 +15,15 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **02/25/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
-| **02/27/19** | *CS 460* | Hw17 |
-| **02/27/19** | *CS 460* | Reading - Link layer; Error-detect. & correct. (6.1, 6.2) |
-| **02/27/19** | *CS 460* | Test #2 – Chapters 3 – 5, Opens 2/27 and Closes 3/2 |
-| **02/27/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
-| **02/28/19** | *CS 460* | GP3 |
-| **02/28/19** | *CS 460* | Lab 3-T2 |
-| **03/01/19** | *CS 460* | Class work |
-| **03/01/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
-| **03/01/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
-| **03/02/19** | *CS 460* | Test #2 |
-| **03/04/19** | *CS 460* | Hw18 |
-| **03/04/19** | *CS 460* | Reading - Multiple Access Protocols (6.3) |
+| **???** | *CS 470* | 09 Ponder: Threat Model |
 | **03/04/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
-| **03/06/19** | *CS 460* | Hw19 |
+| **03/06/19** | *CS 460* | Hw19 | 
 | **03/06/19** | *CS 460* | Reading - Link-layer addressing; ARP; Ethernet (6.4 – 6.4.2) |
 | **03/06/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/08/19** | *CS 460* | Hw20 |
 | **03/08/19** | *CS 460* | Lab 4 |
 | **03/08/19** | *CS 460* | Reading - Switches; VLANs; MPLS (6.4.3 – 6.5) |
 | **03/08/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
-| **03/08/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
 | **03/11/19** | *CS 460* | Reading - Data Center Networking; Web request (6.6 – 6.8) |
 | **03/11/19** | *CS 460* | WS-Ethernet |
 | **03/11/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
@@ -85,6 +66,8 @@
 | **04/10/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **04/12/19** | *CS 460* | Final: STC 394 at 7 – 8:30 AM |
 | **04/12/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight.
+| ~~**???**~~ | ~~*CS 470*~~ | ~~07 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~09 Prepare: Reading~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Course overview; Introduction; Internet (1.1); History (1.7)~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Hw00~~ |
 | ~~**01/07/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
@@ -179,4 +162,17 @@
 | ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~Hw16~~ |
 | ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~Lab 3R~~ |
 | ~~**02/25/19**~~ | ~~*CS 460*~~ | ~~Reading - SDN Control Plane (5.5 – 5.5.1); ICMP (5.6); SNMP (5.7)~~ |
+| ~~**02/25/19**~~ | ~~*CS 470*~~ | ~~07 Ponder : Stack Lab~~ |
+| ~~**02/25/19**~~ | ~~*CS 470*~~ | ~~08 Ponder : Vulnerabilities & Exploits Lab~~ |
+| ~~**02/25/19**~~ | ~~*CS 470*~~ | ~~08 Prepare: Reading~~ |
+| ~~**02/25/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
+| ~~**02/27/19**~~ | ~~*CS 460*~~ | ~~Hw17~~ |
+| ~~**02/27/19**~~ | ~~*CS 460*~~ | ~~Reading - Link layer; Error-detect. & correct. (6.1, 6.2)~~ |
+| ~~**02/27/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
+| ~~**02/28/19**~~ | ~~*CS 460*~~ | ~~GP3~~ |
+| ~~**02/28/19**~~ | ~~*CS 460*~~ | ~~Lab 3-T2~~ |
+| ~~**03/01/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**03/02/19**~~ | ~~*CS 460*~~ | ~~Test #2~~ |
+| ~~**03/04/19**~~ | ~~*CS 460*~~ | ~~Hw18~~ |
+| ~~**03/04/19**~~ | ~~*CS 460*~~| ~~Reading - Multiple Access Protocols (6.3)~~ |
 | ~~**03/15/19**~~ | ~~*CS 460*~~ | ~~Final Project (FP) Proposal~~ |
