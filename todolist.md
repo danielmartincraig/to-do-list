@@ -16,7 +16,6 @@
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
 | **???** | *CS 470* | 09 Ponder: Threat Model |
-| **03/06/19** | *CS 460* | Hw19 |
 | **03/08/19** | *CS 460* | Hw20 |
 | **03/08/19** | *CS 460* | Lab 4 |
 | **03/08/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
@@ -171,6 +170,7 @@
 | ~~**03/04/19**~~ | ~~*CS 460*~~ | ~~Hw18~~ |
 | ~~**03/04/19**~~ | ~~*CS 460*~~| ~~Reading - Multiple Access Protocols (6.3)~~ |
 | ~~**03/04/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
+| ~~**03/06/19**~~ | ~~*CS 460*~~ | ~~Hw19~~ |
 | ~~**03/06/19**~~ | ~~*CS 460*~~ | ~~Reading - Link-layer addressing; ARP; Ethernet (6.4 – 6.4.2)~~ |
 | ~~**03/06/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
 | ~~**03/08/19**~~ | ~~*CS 460*~~ | ~~Reading - Switches; VLANs; MPLS (6.4.3 – 6.5)~~ |
