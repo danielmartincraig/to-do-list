@@ -2,10 +2,6 @@
 
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
-| **???** | *CS 470* | 09 Ponder: Threat Model |
-| **???** | *CS 470* | 10 Prepare: Reading |
-| **???** | *CS 470* | 10 Prove: Midterm Part I |
-| **???** | *CS 470* | 10 Prove: Midterm Part II |
 | **???** | *CS 470* | 11 Ponder : Password Strength Lab |
 | **???** | *CS 470* | 11 Prepare: Reading |
 | **???** | *CS 470* | 12 Ponder : Bell-Lapdula Lab |
@@ -16,11 +12,7 @@
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
 | **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **03/08/19** | *CS 460* | Lab 4 |
-| **03/11/19** | *CS 460* | Reading - Data Center Networking; Web request (6.6 – 6.8) |
-| **03/11/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
-| **03/13/19** | *CS 460* | Hw21 |
-| **03/13/19** | *CS 460* | Reading - Wireless; Wi-Fi (7.1 – 7.2) |
+| **???** | *CS 470* | 09 Ponder: Threat Model |
 | **03/13/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/14/19** | *CS 460* | Quiz #3 |
 | **03/15/19** | *CS 460* | Hw22 |
@@ -60,6 +52,9 @@
 | **04/12/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight.
 | ~~**???**~~ | ~~*CS 470*~~ | ~~07 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~09 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part I~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part II~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Course overview; Introduction; Internet (1.1); History (1.7)~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Hw00~~ |
 | ~~**01/07/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
@@ -172,7 +167,12 @@
 | ~~**03/06/19**~~ | ~~*CS 460*~~ | ~~Reading - Link-layer addressing; ARP; Ethernet (6.4 – 6.4.2)~~ |
 | ~~**03/06/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
 | ~~**03/08/19**~~ | ~~*CS 460*~~ | ~~Hw20~~ |
+| ~~**03/08/19**~~ | ~~*CS 460*~~ | ~~Lab 4~~ |
 | ~~**03/08/19**~~ | ~~*CS 460*~~ | ~~Reading - Switches; VLANs; MPLS (6.4.3 – 6.5)~~ |
 | ~~**03/08/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**03/11/19**~~ | ~~*CS 460*~~ | ~~Reading - Data Center Networking; Web request (6.6 – 6.8)~~ |
 | ~~**03/11/19**~~ | ~~*CS 460*~~ | ~~WS-Ethernet~~ |
+| ~~**03/11/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
+| ~~**03/13/19**~~ | ~~*CS 460*~~ | ~~Hw21~~ |
+| ~~**03/13/19**~~ | ~~*CS 460*~~ | ~~Reading - Wireless; Wi-Fi (7.1 – 7.2)~~ |
 | ~~**03/15/19**~~ | ~~*CS 460*~~ | ~~Final Project (FP) Proposal~~ |
