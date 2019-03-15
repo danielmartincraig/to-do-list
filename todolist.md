@@ -2,6 +2,7 @@
 
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
+| **???** | *CS 470* | 09 Ponder: Threat Model |
 | **???** | *CS 470* | 11 Ponder : Password Strength Lab |
 | **???** | *CS 470* | 11 Prepare: Reading |
 | **???** | *CS 470* | 12 Ponder : Bell-Lapdula Lab |
@@ -10,14 +11,8 @@
 | **???** | *CS 470* | 13 Prepare: Reading |
 | **???** | *CS 470* | 14 Prove: Final Part I |
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
-| **???** | *CS 470* | W05 Student Feedback to Instructor |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **???** | *CS 470* | 09 Ponder: Threat Model |
-| **03/13/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
-| **03/14/19** | *CS 460* | Quiz #3 |
 | **03/15/19** | *CS 460* | Hw22 |
-| **03/15/19** | *CS 460* | Reading - 802.11 (7.3 – 7.3.4) |
-| **03/15/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **03/18/19** | *CS 460* | Lab 5 |
 | **03/18/19** | *CS 460* | Reading - Bluetooth (7.3.6); Cellular (7.4) |
 | **03/18/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
@@ -28,7 +23,7 @@
 | **03/22/19** | *CS 460* | GP5 |
 | **03/22/19** | *CS 460* | Lab 5-T2 |
 | **03/22/19** | *CS 460* | Reading - Network security (8.1) |
-| **03/22/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
+| **03/22/19** | *CS 480* | 16 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **03/25/19** | *CS 460* | Hw24 |
 | **03/25/19** | *CS 460* | Reading - Cryptography (8.2) |
 | **03/25/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
@@ -38,23 +33,23 @@
 | **03/27/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/29/19** | *CS 460* | Hw26 |
 | **03/29/19** | *CS 460* | Reading - (8.5); (8.6); (8.7 – 8.7.1); (introduction of 8.8) |
-| **03/29/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
+| **03/29/19** | *CS 480* | 17 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **04/01/19** | *CS 460* | Hw27 |
 | **04/01/19** | *CS 460* | Reading - Firewalls and Intrusion Detection (8.9) |
 | **04/03/19** | *CS 460* | Project presentations |
 | **04/03/19** | *CS 460* | Quiz #4 |
 | **04/03/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
-| **04/05/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
+| **04/05/19** | *CS 480* | 18 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **04/08/19** | *CS 460* | Final Project Submitted |
 | **04/10/19** | *CS 460* | DQ#2 |
 | **04/10/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **04/12/19** | *CS 460* | Final: STC 394 at 7 – 8:30 AM |
-| **04/12/19** | *CS 480* | Problems and exercises – Complete the problems and exercises before Friday at Midnight.
 | ~~**???**~~ | ~~*CS 470*~~ | ~~07 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~09 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part I~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part II~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~W05 Student Feedback to Instructor~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Course overview; Introduction; Internet (1.1); History (1.7)~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Hw00~~ |
 | ~~**01/07/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
@@ -175,4 +170,8 @@
 | ~~**03/11/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
 | ~~**03/13/19**~~ | ~~*CS 460*~~ | ~~Hw21~~ |
 | ~~**03/13/19**~~ | ~~*CS 460*~~ | ~~Reading - Wireless; Wi-Fi (7.1 – 7.2)~~ |
+| ~~**03/13/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
+| ~~**03/14/19**~~ | ~~*CS 460*~~ | ~~Quiz #3~~ |
 | ~~**03/15/19**~~ | ~~*CS 460*~~ | ~~Final Project (FP) Proposal~~ |
+| ~~**03/15/19**~~ | ~~*CS 460*~~ | ~~Reading - 802.11 (7.3 – 7.3.4)~~ |
+| ~~**03/15/19**~~ | ~~*CS 480*~~ | ~~Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
