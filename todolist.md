@@ -2,7 +2,6 @@
 
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
-| **???** | *CS 470* | 09 Ponder: Threat Model |
 | **???** | *CS 470* | 11 Prepare: Reading |
 | **???** | *CS 470* | 12 Ponder : Bell-Lapdula Lab |
 | **???** | *CS 470* | 12 Prepare: Reading |
@@ -11,7 +10,6 @@
 | **???** | *CS 470* | 14 Prove: Final Part I |
 | **???** | *CS 470* | 14 Prove: Final Part II [CS 470] |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **03/20/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/22/19** | *CS 460* | GP5 |
 | **03/22/19** | *CS 460* | Lab 5-T2 |
 | **03/22/19** | *CS 460* | Reading - Network security (8.1) |
@@ -37,6 +35,7 @@
 | **04/10/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **04/12/19** | *CS 460* | Final: STC 394 at 7 – 8:30 AM |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~07 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~09 Ponder: Threat Model~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~09 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part I~~ |
@@ -175,3 +174,4 @@
 | ~~**03/20/19**~~ | ~~*CS 460*~~ | ~~Hw23~~ |
 | ~~**03/20/19**~~ | ~~*CS 460*~~ | ~~Lab 5R~~ |
 | ~~**03/20/19**~~ | ~~*CS 460*~~ | ~~Reading - Mobility (7.5, 7.7 – 7.9)~~ |
+| ~~**03/20/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
