@@ -10,9 +10,7 @@
 | **???** | *CS 470* | 14 Prove: Final Part I |
 | **???** | *CS 470* | 14 Prove: Final Part II |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **03/22/19** | *CS 460* | GP5 |
-| **03/22/19** | *CS 460* | Reading - Network security (8.1) |
-| **03/22/19** | *CS 480* | 16 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
+
 | **03/25/19** | *CS 460* | Hw24 |
 | **03/25/19** | *CS 460* | Reading - Cryptography (8.2) |
 | **03/25/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
@@ -174,4 +172,7 @@
 | ~~**03/20/19**~~ | ~~*CS 460*~~ | ~~Lab 5R~~ |
 | ~~**03/20/19**~~ | ~~*CS 460*~~ | ~~Reading - Mobility (7.5, 7.7 – 7.9)~~ |
 | ~~**03/20/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
+| ~~**03/22/19**~~ | ~~*CS 460*~~ | ~~GP5~~ |
 | ~~**03/22/19**~~ | ~~*CS 460*~~ | ~~Lab 5-T2~~ |
+| ~~**03/22/19**~~ | ~~*CS 460*~~ | ~~Reading - Network security (8.1)~~ |
+| ~~**03/22/19**~~ | ~~*CS 480*~~ | ~~16 Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
