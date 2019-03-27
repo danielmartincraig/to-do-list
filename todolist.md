@@ -2,21 +2,9 @@
 
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
-| **???** | *CS 470* | 11 Prepare: Reading |
-| **???** | *CS 470* | 12 Ponder : Bell-Lapdula Lab |
-| **???** | *CS 470* | 12 Prepare: Reading |
 | **???** | *CS 470* | 13 Ponder : Encryption Lab |
-| **???** | *CS 470* | 13 Prepare: Reading |
-| **???** | *CS 470* | 14 Prove: Final Part I |
-| **???** | *CS 470* | 14 Prove: Final Part II |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-
-| **03/25/19** | *CS 460* | Hw24 |
-| **03/25/19** | *CS 460* | Reading - Cryptography (8.2) |
-| **03/25/19** | *CS 480* | Reading – Read and record questions about the items I didn’t understand |
-| **03/26/19** | *CS 460* | Test #3 |
 | **03/27/19** | *CS 460* | Hw25 |
-| **03/27/19** | *CS 460* | Reading - Message Integrity and Digital Signatures; End-Point Authentication (8.3, 8.4) |
 | **03/27/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/29/19** | *CS 460* | Hw26 |
 | **03/29/19** | *CS 460* | Reading - (8.5); (8.6); (8.7 – 8.7.1); (introduction of 8.8) |
@@ -38,6 +26,12 @@
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part I~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~10 Prove: Midterm Part II~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~11 Ponder : Password Strength Lab~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~11 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~12 Ponder : Bell-Lapdula Lab~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~12 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~13 Prepare: Reading~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~14 Prove: Final Part I~~ |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~14 Prove: Final Part II~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~W05 Student Feedback to Instructor~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Course overview; Introduction; Internet (1.1); History (1.7)~~ |
 | ~~**01/07/19**~~ | ~~*CS 460*~~ | ~~Hw00~~ |
@@ -176,3 +170,8 @@
 | ~~**03/22/19**~~ | ~~*CS 460*~~ | ~~Lab 5-T2~~ |
 | ~~**03/22/19**~~ | ~~*CS 460*~~ | ~~Reading - Network security (8.1)~~ |
 | ~~**03/22/19**~~ | ~~*CS 480*~~ | ~~16 Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**03/25/19**~~ | ~~*CS 460*~~ | ~~Hw24~~ |
+| ~~**03/25/19**~~ | ~~*CS 460*~~ | ~~Reading - Cryptography (8.2)~~ |
+| ~~**03/25/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
+| ~~**03/26/19**~~ | ~~*CS 460*~~ | ~~Test #3~~ |
+| ~~**03/27/19**~~ | ~~*CS 460*~~ | ~~Reading - Message Integrity and Digital Signatures; End-Point Authentication (8.3, 8.4)~~ |
