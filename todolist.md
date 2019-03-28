@@ -4,8 +4,6 @@
 |--------------|----------|--------------------------------------------------------------|
 | **???** | *CS 470* | 13 Ponder : Encryption Lab |
 | **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **03/27/19** | *CS 460* | Hw25 |
-| **03/27/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **03/29/19** | *CS 460* | Hw26 |
 | **03/29/19** | *CS 460* | Reading - (8.5); (8.6); (8.7 – 8.7.1); (introduction of 8.8) |
 | **03/29/19** | *CS 480* | 17 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
@@ -174,4 +172,6 @@
 | ~~**03/25/19**~~ | ~~*CS 460*~~ | ~~Reading - Cryptography (8.2)~~ |
 | ~~**03/25/19**~~ | ~~*CS 480*~~ | ~~Reading – Read and record questions about the items I didn’t understand~~ |
 | ~~**03/26/19**~~ | ~~*CS 460*~~ | ~~Test #3~~ |
+| ~~**03/27/19**~~ | ~~*CS 460*~~ | ~~Hw25~~ |
 | ~~**03/27/19**~~ | ~~*CS 460*~~ | ~~Reading - Message Integrity and Digital Signatures; End-Point Authentication (8.3, 8.4)~~ |
+| ~~**03/27/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
