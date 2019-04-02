@@ -2,7 +2,7 @@
 
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
-| **???** | *CS 470* | 13 Ponder : Encryption Lab |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~13 Ponder : Encryption Lab~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~W12 Student Evaluation of Instructor~~ |
 | ~~**03/29/19**~~ | ~~*CS 460*~~ | ~~Hw26~~ |
 | ~~**03/29/19**~~ | ~~*CS 460*~~ | ~~Reading - (8.5); (8.6); (8.7 – 8.7.1); (introduction of 8.8)~~ |
