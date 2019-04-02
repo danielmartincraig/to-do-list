@@ -3,12 +3,12 @@
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
 | **???** | *CS 470* | 13 Ponder : Encryption Lab |
-| **???** | *CS 470* | W12 Student Evaluation of Instructor |
-| **03/29/19** | *CS 460* | Hw26 |
-| **03/29/19** | *CS 460* | Reading - (8.5); (8.6); (8.7 – 8.7.1); (introduction of 8.8) |
-| **03/29/19** | *CS 480* | 17 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
-| **04/01/19** | *CS 460* | Hw27 |
-| **04/01/19** | *CS 460* | Reading - Firewalls and Intrusion Detection (8.9) |
+| ~~**???**~~ | ~~*CS 470*~~ | ~~W12 Student Evaluation of Instructor~~ |
+| ~~**03/29/19**~~ | ~~*CS 460*~~ | ~~Hw26~~ |
+| ~~**03/29/19**~~ | ~~*CS 460*~~ | ~~Reading - (8.5); (8.6); (8.7 – 8.7.1); (introduction of 8.8)~~ |
+| ~~**03/29/19**~~ | ~~*CS 480*~~ | ~~17 Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**04/01/19**~~ | ~~*CS 460*~~ | ~~Hw27~~ |
+| ~~**04/01/19**~~ | ~~*CS 460*~~ | ~~Reading - Firewalls and Intrusion Detection (8.9)~~ |
 | **04/03/19** | *CS 460* | Project presentations |
 | **04/03/19** | *CS 460* | Quiz #4 |
 | **04/03/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
