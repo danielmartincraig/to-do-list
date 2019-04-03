@@ -9,13 +9,12 @@
 | ~~**03/29/19**~~ | ~~*CS 480*~~ | ~~17 Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
 | ~~**04/01/19**~~ | ~~*CS 460*~~ | ~~Hw27~~ |
 | ~~**04/01/19**~~ | ~~*CS 460*~~ | ~~Reading - Firewalls and Intrusion Detection (8.9)~~ |
-| **04/03/19** | *CS 460* | Project presentations |
+| ~~**04/03/19**~~ | ~~*CS 460*~~ | ~~Project presentations~~ |
 | ~~**04/03/19**~~ | ~~*CS 460*~~ | ~~Quiz #4~~ |
 | **04/03/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **04/05/19** | *CS 480* | 18 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | **04/08/19** | *CS 460* | Final Project Submitted |
 | **04/10/19** | *CS 460* | DQ#2 |
-| **04/10/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
 | **04/12/19** | *CS 460* | Final: STC 394 at 7 – 8:30 AM |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~07 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~09 Ponder: Threat Model~~ |
