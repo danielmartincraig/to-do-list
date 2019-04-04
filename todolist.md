@@ -11,7 +11,7 @@
 | ~~**04/01/19**~~ | ~~*CS 460*~~ | ~~Reading - Firewalls and Intrusion Detection (8.9)~~ |
 | ~~**04/03/19**~~ | ~~*CS 460*~~ | ~~Project presentations~~ |
 | ~~**04/03/19**~~ | ~~*CS 460*~~ | ~~Quiz #4~~ |
-| **04/03/19** | *CS 480* | Question – Submit a high quality question regarding the information for this week |
+| ~~**04/03/19**~~ | ~~*CS 480*~~ | ~~Question – Submit a high quality question regarding the information for this week~~ |
 | **04/05/19** | *CS 480* | 18 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
 | ~~**04/08/19**~~ | ~~*CS 460*~~ | ~~Final Project Submitted~~ |
 | **04/10/19** | *CS 460* | DQ#2 |
