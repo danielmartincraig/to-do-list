@@ -3,8 +3,8 @@
 | Due Date     | Class    | Assignment Name                                              |
 |--------------|----------|--------------------------------------------------------------|
 | **04/04/19** | *CS 480* | Final Paper |
-| **04/05/19** | *CS 480* | 18 Problems and exercises – Complete the problems and exercises before Friday at Midnight. |
-| **04/10/19** | *CS 460* | DQ#2 |
+| ~~**04/05/19**~~ | ~~*CS 480*~~ | ~~18 Problems and exercises – Complete the problems and exercises before Friday at Midnight.~~ |
+| ~~**04/10/19**~~ | ~~*CS 460*~~ | ~~DQ#2~~ |
 | **04/12/19** | *CS 460* | Final: STC 394 at 7 – 8:30 AM |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~07 Prepare: Reading~~ |
 | ~~**???**~~ | ~~*CS 470*~~ | ~~09 Ponder: Threat Model~~ |
